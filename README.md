@@ -5,7 +5,7 @@ Simple Rails Version using best development practices.
 # TODO
 
 ## Requisitos
-* ~~Utilizar como exemplo a seguinte API: https://punkapi.com/documentation/v2~~
+* ~~Utilizar como exemplo a seguinte API: https://publicapis.io/punk-api~~
 * Criar três ou mais Models
 **Beers, FoodPairing, Pub**
 * Ter uma associação entre Models do tipo 1..n
